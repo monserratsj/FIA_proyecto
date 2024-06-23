@@ -48,7 +48,7 @@ def leer_grafo(archivo_heuristics, archivo_kilometraje):
     return grafo
 
 # Algoritmo A* modificado para usar heurísticas y grafo desde archivo
-def a_estrella(inicio, meta, grafo, heuristics_file):
+def a_estrella(inicio, meta, grafo, heuristics_file, archivo_kilometraje):
     lista_abierta = []  # Lista de nodos abiertos
     lista_cerrada = set()  # Conjunto de nombres de nodos cerrados
 
@@ -62,6 +62,17 @@ def a_estrella(inicio, meta, grafo, heuristics_file):
             nodo1, nodo2 = conexion.split(' - ')
             heuristics[nodo1] = heuristica_valor
             heuristics[nodo2] = heuristica_valor
+
+    # Leer distancias desde el archivo de kilometraje
+    distancias = {}
+    with open(archivo_kilometraje, 'r') as file:
+        for line in file:
+            datos = line.strip().split(':')
+            conexion = datos[0].strip()
+            distancia = float(datos[1].strip())
+            nodo1, nodo2 = conexion.split(' - ')
+            distancias[(nodo1, nodo2)] = distancia
+            distancias[(nodo2, nodo1)] = distancia
 
     nodo_inicio = Nodo(inicio)  # Nodo inicial
     nodo_meta = Nodo(meta)  # Nodo meta
@@ -82,13 +93,13 @@ def a_estrella(inicio, meta, grafo, heuristics_file):
             return camino
 
         vecinos = grafo.get(nodo_actual.nombre, [])  # Obtener vecinos del nodo actual desde el grafo
-        for vecino_nombre, distancia in vecinos:
+        for vecino_nombre, _ in vecinos:
             if vecino_nombre in lista_cerrada:
                 continue  # Saltar a la siguiente iteración si el vecino está en los nodos cerrados
 
             # Crear nodo vecino
             nodo_vecino = Nodo(vecino_nombre)
-            g_tentativa = nodo_actual.g + distancia  # Calcular el nuevo g tentativo para el vecino
+            g_tentativa = nodo_actual.g + distancias.get((nodo_actual.nombre, vecino_nombre), float('inf'))  # Calcular el nuevo g tentativo para el vecino
 
             # Obtener heurística desde el diccionario
             heuristica_valor = heuristics.get(vecino_nombre, 0)  # Si no hay heurística, usar 0
@@ -140,13 +151,13 @@ def dibujar_grafo(grafo, camino=None):
 archivo_heuristicas = 'heuristics.txt'
 archivo_kilometraje = 'kilometraje.txt'
 inicio = 'Tlaxcala'
-meta = 'La Joya'
+meta = 'San Jose Tetel'
 
 # Leer grafo desde archivo con conexiones adicionales
 grafo = leer_grafo(archivo_heuristicas, archivo_kilometraje)
 
 # Ejecutar algoritmo A* con grafo y heurísticas desde archivos
-camino = a_estrella(inicio, meta, grafo, archivo_heuristicas)
+camino = a_estrella(inicio, meta, grafo, archivo_heuristicas, archivo_kilometraje)
 print("Ruta más corta:", camino)
 
 # Dibujar el grafo
