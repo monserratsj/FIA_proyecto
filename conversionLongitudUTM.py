@@ -1,6 +1,8 @@
 #Este archivo nos ayuda a corroborar que las coordenadas UTM sean las correctas
-
-from pyproj import Transformer
+'''pyproj es una biblioteca de Python que se utiliza para realizar transformaciones de
+coordenadas entre diferentes sistemas de referencia geoespacial. La función Transformer
+de pyproj es una herramienta clave dentro de esta biblioteca que permite la conversión de
+coordenadas de un sistema de referencia a otro.from pyproj import Transformer'''
 
 # Lista de coordenadas (latitud, longitud)
 coordinates = [
