@@ -1,0 +1,9 @@
+Tlaxcala - San Esteban Tizatlan: 2
+Tlaxcala - San Lucas Cuauhtelulpan: 11
+Tlaxcala - La Loma Xicohtencatl: 6
+San Esteban Tizatlan - San Lucas Cuauhtelulpan: 4
+San Esteban Tizatlan - San Jose Tetel: 4
+San Esteban Tizatlan - La Loma Xicohtencatl: 3
+San Esteban Tizatlan - Ocotlan: 3
+La Loma Xicohtencatl - La Joya: 7
+Ocotlan - La Joya: 5
