@@ -24,7 +24,7 @@ print(df.head())
 
 # Función para calcular la distancia euclidiana entre dos puntos
 def euclidean_distance(lugar1, lugar2):
-    return sqrt((lugar1.este - lugar2.este)**2 + (lugar1.norte - lugar2.norte)**2)
+    return int(sqrt((lugar1.este - lugar2.este)**2 + (lugar1.norte - lugar2.norte)**2))
 
 # Crear un grafo vacío
 G = nx.Graph()
@@ -44,6 +44,12 @@ for u in lugares:
         if u != v and not G.has_edge(u, v):
             distancia = euclidean_distance(lugares[u], lugares[v])
             G.add_edge(u, v, weight=distancia)
+
+# Guardar las heurísticas en un archivo de texto
+heuristics_file_path = os.path.join(current_dir, 'heuristics.txt')
+with open(heuristics_file_path, 'w') as f:
+    for u, v, data in G.edges(data=True):
+        f.write(f"{u} - {v}: {data['weight']}\n")
 
 # Dibujar el grafo
 pos = {lugar.nombre: (lugar.este, lugar.norte) for lugar in lugares.values() if pd.notnull(lugar.este) and pd.notnull(lugar.norte)}
