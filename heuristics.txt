@@ -1,21 +1,78 @@
-Tlaxcala - San Esteban Tizatlán: 3041
-Tlaxcala - San Lucas Cuauhtelulpan: 1118
-Tlaxcala - San José Tetel: 2236
-Tlaxcala - La Loma Xicohténcatl: 860
-Tlaxcala - Ocotlán: 538
-Tlaxcala - La Joya: 538
-San Esteban Tizatlán - San Lucas Cuauhtelulpan: 4000
-San Esteban Tizatlán - San José Tetel: 1118
-San Esteban Tizatlán - La Loma Xicohténcatl: 2507
-San Esteban Tizatlán - Ocotlán: 2596
-San Esteban Tizatlán - La Joya: 2517
-San Lucas Cuauhtelulpan - San José Tetel: 3041
-San Lucas Cuauhtelulpan - La Loma Xicohténcatl: 1513
-San Lucas Cuauhtelulpan - Ocotlán: 1655
-San Lucas Cuauhtelulpan - La Joya: 1529
-San José Tetel - La Loma Xicohténcatl: 1529
-San José Tetel - Ocotlán: 1920
-San José Tetel - La Joya: 1700
-La Loma Xicohténcatl - Ocotlán: 900
-La Loma Xicohténcatl - La Joya: 500
-Ocotlán - La Joya: 400
+Mercado municipal Emilio Sanchez Piedras - Trebol: 771
+Mercado municipal Emilio Sanchez Piedras - Esc. Prim Xicohtencatl: 2732
+Mercado municipal Emilio Sanchez Piedras - Centro de San Jorge Tezoquipan: 3411
+Mercado municipal Emilio Sanchez Piedras - Escuela Normal Preescolar PFMM: 3805
+Mercado municipal Emilio Sanchez Piedras - Entronque Entrada Techachalco: 1602
+Mercado municipal Emilio Sanchez Piedras - Entrada Panotla: 4097
+Mercado municipal Emilio Sanchez Piedras - Iglesia Trinidad Tenexyecac: 4496
+Mercado municipal Emilio Sanchez Piedras - San Jorge Tezoquipan Iglesia: 3411
+Mercado municipal Emilio Sanchez Piedras - Centro Santa Catarina Apatlahco: 4519
+Mercado municipal Emilio Sanchez Piedras - Gasolinera Zaragoza: 3682
+Mercado municipal Emilio Sanchez Piedras - Colegio Tepochcalli: 3549
+Mercado municipal Emilio Sanchez Piedras - Presidencia Auxiliar Xochimilco: 4576
+Trebol - Esc. Prim Xicohtencatl: 2004
+Trebol - Centro de San Jorge Tezoquipan: 2642
+Trebol - Escuela Normal Preescolar PFMM: 3490
+Trebol - Entronque Entrada Techachalco: 2233
+Trebol - Entrada Panotla: 3923
+Trebol - Iglesia Trinidad Tenexyecac: 4008
+Trebol - San Jorge Tezoquipan Iglesia: 2649
+Trebol - Centro Santa Catarina Apatlahco: 4308
+Trebol - Gasolinera Zaragoza: 3486
+Trebol - Colegio Tepochcalli: 3577
+Trebol - Presidencia Auxiliar Xochimilco: 4076
+Esc. Prim Xicohtencatl - Centro de San Jorge Tezoquipan: 990
+Esc. Prim Xicohtencatl - Escuela Normal Preescolar PFMM: 2643
+Esc. Prim Xicohtencatl - Entronque Entrada Techachalco: 3817
+Esc. Prim Xicohtencatl - Entrada Panotla: 3384
+Esc. Prim Xicohtencatl - Iglesia Trinidad Tenexyecac: 4076
+Esc. Prim Xicohtencatl - San Jorge Tezoquipan Iglesia: 820
+Esc. Prim Xicohtencatl - Centro Santa Catarina Apatlahco: 3601
+Esc. Prim Xicohtencatl - Gasolinera Zaragoza: 2981
+Esc. Prim Xicohtencatl - Colegio Tepochcalli: 3637
+Esc. Prim Xicohtencatl - Presidencia Auxiliar Xochimilco: 2572
+Centro de San Jorge Tezoquipan - Escuela Normal Preescolar PFMM: 3492
+Centro de San Jorge Tezoquipan - Entronque Entrada Techachalco: 4681
+Centro de San Jorge Tezoquipan - Entrada Panotla: 4274
+Centro de San Jorge Tezoquipan - Iglesia Trinidad Tenexyecac: 3463
+Centro de San Jorge Tezoquipan - San Jorge Tezoquipan Iglesia: 291
+Centro de San Jorge Tezoquipan - Centro Santa Catarina Apatlahco: 4441
+Centro de San Jorge Tezoquipan - Gasolinera Zaragoza: 3894
+Centro de San Jorge Tezoquipan - Colegio Tepochcalli: 4611
+Centro de San Jorge Tezoquipan - Presidencia Auxiliar Xochimilco: 3118
+Escuela Normal Preescolar PFMM - Entronque Entrada Techachalco: 3789
+Escuela Normal Preescolar PFMM - Entrada Panotla: 819
+Escuela Normal Preescolar PFMM - Iglesia Trinidad Tenexyecac: 6696
+Escuela Normal Preescolar PFMM - San Jorge Tezoquipan Iglesia: 3220
+Escuela Normal Preescolar PFMM - Centro Santa Catarina Apatlahco: 958
+Escuela Normal Preescolar PFMM - Gasolinera Zaragoza: 594
+Escuela Normal Preescolar PFMM - Colegio Tepochcalli: 1635
+Escuela Normal Preescolar PFMM - Presidencia Auxiliar Xochimilco: 1311
+Entronque Entrada Techachalco - Entrada Panotla: 3747
+Entronque Entrada Techachalco - Iglesia Trinidad Tenexyecac: 6095
+Entronque Entrada Techachalco - San Jorge Tezoquipan Iglesia: 4606
+Entronque Entrada Techachalco - Centro Santa Catarina Apatlahco: 4202
+Entronque Entrada Techachalco - Gasolinera Zaragoza: 3430
+Entronque Entrada Techachalco - Colegio Tepochcalli: 2853
+Entronque Entrada Techachalco - Presidencia Auxiliar Xochimilco: 4897
+Entrada Panotla - Iglesia Trinidad Tenexyecac: 7383
+Entrada Panotla - San Jorge Tezoquipan Iglesia: 4010
+Entrada Panotla - Centro Santa Catarina Apatlahco: 455
+Entrada Panotla - Gasolinera Zaragoza: 441
+Entrada Panotla - Colegio Tepochcalli: 1093
+Entrada Panotla - Presidencia Auxiliar Xochimilco: 1987
+Iglesia Trinidad Tenexyecac - San Jorge Tezoquipan Iglesia: 3750
+Iglesia Trinidad Tenexyecac - Centro Santa Catarina Apatlahco: 7649
+Iglesia Trinidad Tenexyecac - Gasolinera Zaragoza: 6954
+Iglesia Trinidad Tenexyecac - Colegio Tepochcalli: 7377
+Iglesia Trinidad Tenexyecac - Presidencia Auxiliar Xochimilco: 6559
+San Jorge Tezoquipan Iglesia - Centro Santa Catarina Apatlahco: 4166
+San Jorge Tezoquipan Iglesia - Gasolinera Zaragoza: 3638
+San Jorge Tezoquipan Iglesia - Colegio Tepochcalli: 4384
+San Jorge Tezoquipan Iglesia - Presidencia Auxiliar Xochimilco: 2827
+Centro Santa Catarina Apatlahco - Gasolinera Zaragoza: 837
+Centro Santa Catarina Apatlahco - Colegio Tepochcalli: 1506
+Centro Santa Catarina Apatlahco - Presidencia Auxiliar Xochimilco: 1849
+Gasolinera Zaragoza - Colegio Tepochcalli: 1044
+Gasolinera Zaragoza - Presidencia Auxiliar Xochimilco: 1897
+Colegio Tepochcalli - Presidencia Auxiliar Xochimilco: 2941

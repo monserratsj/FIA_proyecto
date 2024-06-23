@@ -2,7 +2,7 @@ import numpy as np
 
 # Datos iniciales
 demanda_pasajeros = np.array([50, 60, 30, 60, 35])  # demanda por hora de 6 a 10
-rutas = ['Tlaxcala-Guadalupe Tlachco','Procu-Gran Patio']
+rutas = ['Tlaxcala-Xochimilco','Tlaxcala Apatlahco']
 tiempos_viaje = np.array([47,45])  # viaje en minutos
 capacidad_vehiculo = 12  # capacidad de una combi común
 

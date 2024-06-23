@@ -135,7 +135,7 @@ def dibujar_grafo(grafo, camino=None):
 
     # Etiquetas de los nodos
     labels = {nodo: nodo for nodo in G.nodes()}
-    nx.draw_networkx_labels(G, pos, labels, font_size=12)
+    nx.draw_networkx_labels(G, pos, labels, font_size=8)
 
     # Destacar el camino más corto si se proporciona
     if camino:
@@ -150,8 +150,8 @@ def dibujar_grafo(grafo, camino=None):
 # Ejemplo de uso
 archivo_heuristicas = 'heuristics.txt'
 archivo_kilometraje = 'kilometraje.txt'
-inicio = 'Tlaxcala'
-meta = 'San Jose Tetel'
+inicio = 'Centro Santa Catarina Apatlahco'
+meta = 'Mercado municipal Emilio Sanchez Piedras'
 
 # Leer grafo desde archivo con conexiones adicionales
 grafo = leer_grafo(archivo_heuristicas, archivo_kilometraje)

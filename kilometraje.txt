@@ -1,9 +1,22 @@
-Tlaxcala - San Esteban Tizatlan: 2
-Tlaxcala - San Lucas Cuauhtelulpan: 11
-Tlaxcala - La Loma Xicohtencatl: 6
-San Esteban Tizatlan - San Lucas Cuauhtelulpan: 4
-San Esteban Tizatlan - San Jose Tetel: 4
-San Esteban Tizatlan - La Loma Xicohtencatl: 3
-San Esteban Tizatlan - Ocotlan: 3
-La Loma Xicohtencatl - La Joya: 7
-Ocotlan - La Joya: 5
+Mercado municipal Emilio Sanchez Piedras - Trebol: 2
+Trebol - Gasolinera Zaragoza: 4
+Esc. Prim Xicohtencatl - Centro de San Jorge Tezoquipan: 1
+Esc. Prim Xicohtencatl - Entronque Entrada Techachalco: 2
+Esc. Prim Xicohtencatl - San Jorge Tezoquipan Iglesia: 2
+Centro de San Jorge Tezoquipan - Entronque Entrada Techachalco: 4
+Centro de San Jorge Tezoquipan - Iglesia Trinidad Tenexyecac: 4
+Centro de San Jorge Tezoquipan - San Jorge Tezoquipan Iglesia: .5
+Centro de San Jorge Tezoquipan - Centro Santa Catarina Apatlahco: 2
+Centro de San Jorge Tezoquipan - Colegio Tepochcalli: 4
+Escuela Normal Preescolar PFMM - Entrada Panotla: .5
+Escuela Normal Preescolar PFMM - Gasolinera Zaragoza: 4
+Entronque Entrada Techachalco - Entrada Panotla: 5
+Entronque Entrada Techachalco - Iglesia Trinidad Tenexyecac: 7
+Entronque Entrada Techachalco - San Jorge Tezoquipan Iglesia: 3
+Entronque Entrada Techachalco - Centro Santa Catarina Apatlahco: 6
+Entronque Entrada Techachalco - Colegio Tepochcalli: 1
+Entrada Panotla - Gasolinera Zaragoza: 3
+Entrada Panotla - Colegio Tepochcalli: 2
+Iglesia Trinidad Tenexyecac - San Jorge Tezoquipan Iglesia: 4
+Iglesia Trinidad Tenexyecac - Centro Santa Catarina Apatlahco: 4
+Iglesia Trinidad Tenexyecac - Presidencia Auxiliar Xochimilco: 6

@@ -54,7 +54,7 @@ with open(heuristics_file_path, 'w') as f:
 # Dibujar el grafo
 pos = {lugar.nombre: (lugar.este, lugar.norte) for lugar in lugares.values() if pd.notnull(lugar.este) and pd.notnull(lugar.norte)}
 plt.figure(figsize=(10, 8))
-nx.draw(G, pos, with_labels=True, node_color='skyblue', node_size=1500, font_size=10, font_color='black')
+nx.draw(G, pos, with_labels=True, node_color='skyblue', node_size=500, font_size=8, font_color='black')
 
 # Agregar etiquetas de peso en las aristas
 labels = nx.get_edge_attributes(G, 'weight')
