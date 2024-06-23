@@ -1,0 +1,21 @@
+Tlaxcala - San Esteban Tizatlán: 3041
+Tlaxcala - San Lucas Cuauhtelulpan: 1118
+Tlaxcala - San José Tetel: 2236
+Tlaxcala - La Loma Xicohténcatl: 860
+Tlaxcala - Ocotlán: 538
+Tlaxcala - La Joya: 538
+San Esteban Tizatlán - San Lucas Cuauhtelulpan: 4000
+San Esteban Tizatlán - San José Tetel: 1118
+San Esteban Tizatlán - La Loma Xicohténcatl: 2507
+San Esteban Tizatlán - Ocotlán: 2596
+San Esteban Tizatlán - La Joya: 2517
+San Lucas Cuauhtelulpan - San José Tetel: 3041
+San Lucas Cuauhtelulpan - La Loma Xicohténcatl: 1513
+San Lucas Cuauhtelulpan - Ocotlán: 1655
+San Lucas Cuauhtelulpan - La Joya: 1529
+San José Tetel - La Loma Xicohténcatl: 1529
+San José Tetel - Ocotlán: 1920
+San José Tetel - La Joya: 1700
+La Loma Xicohténcatl - Ocotlán: 900
+La Loma Xicohténcatl - La Joya: 500
+Ocotlán - La Joya: 400
