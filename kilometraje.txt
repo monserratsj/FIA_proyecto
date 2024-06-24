@@ -11,7 +11,6 @@ Centro de San Jorge Tezoquipan - Colegio Tepochcalli: 4
 Escuela Normal Preescolar PFMM - Entrada Panotla: .5
 Escuela Normal Preescolar PFMM - Gasolinera Zaragoza: 4
 Entronque Entrada Techachalco - Entrada Panotla: 5
-Entronque Entrada Techachalco - Iglesia Trinidad Tenexyecac: 7
 Entronque Entrada Techachalco - San Jorge Tezoquipan Iglesia: 3
 Entronque Entrada Techachalco - Centro Santa Catarina Apatlahco: 6
 Entronque Entrada Techachalco - Colegio Tepochcalli: 1
