@@ -150,8 +150,8 @@ def dibujar_grafo(grafo, camino=None):
 # Ejemplo de uso
 archivo_heuristicas = 'heuristics.txt'
 archivo_kilometraje = 'kilometraje.txt'
-inicio = 'Centro Santa Catarina Apatlahco'
-meta = 'Mercado municipal Emilio Sanchez Piedras'
+inicio = 'Gasolinera Zaragoza'
+meta = 'Presidencia Auxiliar Xochimilco'
 
 # Leer grafo desde archivo con conexiones adicionales
 grafo = leer_grafo(archivo_heuristicas, archivo_kilometraje)
